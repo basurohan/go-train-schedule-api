@@ -5,6 +5,7 @@ A spring boot microservice API that provides a simplified train timetable with w
 
 ### To run service locally
 1. Clone the repo locally from Github
+   1. git clone git@github.com:basurohan/go-train-schedule-api.git
 2. Navigate to the project folder
 3. Run ./mvnw spring-boot:run
 4. Alternatively - run from IDE
